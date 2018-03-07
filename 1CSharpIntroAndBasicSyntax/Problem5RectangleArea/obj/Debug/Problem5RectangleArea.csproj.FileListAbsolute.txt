@@ -1,0 +1,6 @@
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem5RectangleArea\bin\Debug\Problem5RectangleArea.exe.config
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem5RectangleArea\bin\Debug\Problem5RectangleArea.exe
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem5RectangleArea\bin\Debug\Problem5RectangleArea.pdb
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem5RectangleArea\obj\Debug\Problem5RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem5RectangleArea\obj\Debug\Problem5RectangleArea.exe
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem5RectangleArea\obj\Debug\Problem5RectangleArea.pdb

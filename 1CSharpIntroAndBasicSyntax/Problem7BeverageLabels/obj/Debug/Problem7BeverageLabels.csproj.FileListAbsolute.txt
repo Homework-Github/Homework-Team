@@ -1,0 +1,7 @@
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem7BeverageLabels\bin\Debug\Problem7BeverageLabels.exe.config
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem7BeverageLabels\bin\Debug\Problem7BeverageLabels.exe
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem7BeverageLabels\bin\Debug\Problem7BeverageLabels.pdb
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem7BeverageLabels\obj\Debug\Problem7BeverageLabels.csprojResolveAssemblyReference.cache
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem7BeverageLabels\obj\Debug\Problem7BeverageLabels.csproj.CoreCompileInputs.cache
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem7BeverageLabels\obj\Debug\Problem7BeverageLabels.exe
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem7BeverageLabels\obj\Debug\Problem7BeverageLabels.pdb
