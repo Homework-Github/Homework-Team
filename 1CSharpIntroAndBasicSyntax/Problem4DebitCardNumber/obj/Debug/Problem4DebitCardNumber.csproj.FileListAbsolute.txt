@@ -1,0 +1,14 @@
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem4DebitCardNumber\bin\Debug\Problem4DebitCardNumber.exe.config
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem4DebitCardNumber\bin\Debug\Problem4DebitCardNumber.exe
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem4DebitCardNumber\bin\Debug\Problem4DebitCardNumber.pdb
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem4DebitCardNumber\obj\Debug\Problem4DebitCardNumber.csprojResolveAssemblyReference.cache
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem4DebitCardNumber\obj\Debug\Problem4DebitCardNumber.csproj.CoreCompileInputs.cache
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem4DebitCardNumber\obj\Debug\Problem4DebitCardNumber.exe
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem4DebitCardNumber\obj\Debug\Problem4DebitCardNumber.pdb
+C:\Users\WW\Desktop\.NET FrameWork\1CSharpIntroAndBasicSyntax\Problem4DebitCardNumber\bin\Debug\Problem4DebitCardNumber.exe.config
+C:\Users\WW\Desktop\.NET FrameWork\1CSharpIntroAndBasicSyntax\Problem4DebitCardNumber\bin\Debug\Problem4DebitCardNumber.exe
+C:\Users\WW\Desktop\.NET FrameWork\1CSharpIntroAndBasicSyntax\Problem4DebitCardNumber\bin\Debug\Problem4DebitCardNumber.pdb
+C:\Users\WW\Desktop\.NET FrameWork\1CSharpIntroAndBasicSyntax\Problem4DebitCardNumber\obj\Debug\Problem4DebitCardNumber.csprojResolveAssemblyReference.cache
+C:\Users\WW\Desktop\.NET FrameWork\1CSharpIntroAndBasicSyntax\Problem4DebitCardNumber\obj\Debug\Problem4DebitCardNumber.csproj.CoreCompileInputs.cache
+C:\Users\WW\Desktop\.NET FrameWork\1CSharpIntroAndBasicSyntax\Problem4DebitCardNumber\obj\Debug\Problem4DebitCardNumber.exe
+C:\Users\WW\Desktop\.NET FrameWork\1CSharpIntroAndBasicSyntax\Problem4DebitCardNumber\obj\Debug\Problem4DebitCardNumber.pdb

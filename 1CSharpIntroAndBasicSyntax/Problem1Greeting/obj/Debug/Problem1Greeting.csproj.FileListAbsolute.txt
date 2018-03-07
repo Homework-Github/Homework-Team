@@ -1,0 +1,7 @@
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem1Greeting\bin\Debug\Problem1Greeting.exe.config
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem1Greeting\bin\Debug\Problem1Greeting.exe
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem1Greeting\bin\Debug\Problem1Greeting.pdb
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem1Greeting\obj\Debug\Problem1Greeting.csprojResolveAssemblyReference.cache
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem1Greeting\obj\Debug\Problem1Greeting.csproj.CoreCompileInputs.cache
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem1Greeting\obj\Debug\Problem1Greeting.exe
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem1Greeting\obj\Debug\Problem1Greeting.pdb

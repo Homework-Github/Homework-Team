@@ -1,0 +1,6 @@
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem2AddTwoNumbers\bin\Debug\Problem2AddTwoNumbers.exe.config
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem2AddTwoNumbers\bin\Debug\Problem2AddTwoNumbers.exe
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem2AddTwoNumbers\bin\Debug\Problem2AddTwoNumbers.pdb
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem2AddTwoNumbers\obj\Debug\Problem2AddTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem2AddTwoNumbers\obj\Debug\Problem2AddTwoNumbers.exe
+C:\Users\WW\source\repos\1CSharpIntroAndBasicSyntax\Problem2AddTwoNumbers\obj\Debug\Problem2AddTwoNumbers.pdb
