@@ -10,6 +10,7 @@ namespace Problem2AddTwoNumbers
     {
         static void Main(string[] args)
         {
+			// TO DO: Try to resolve exam preparation.
             var a = int.Parse(Console.ReadLine());
             var b = int.Parse(Console.ReadLine());
             var sum = a + b;
